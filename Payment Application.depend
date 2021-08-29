@@ -1,0 +1,40 @@
+# depslib dependency file v1.0
+1630273448 source:c:\users\mohamed el-kholy\codeblock\payment application\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"STD_TYPES.h"
+	"Card.h"
+	"Terminal.h"
+	"Server.h"
+
+1630274010 source:c:\users\mohamed el-kholy\codeblock\payment application\card.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	"STD_TYPES.h"
+	"Card.h"
+
+1629816870 c:\users\mohamed el-kholy\codeblock\payment application\std_types.h
+
+1630274763 c:\users\mohamed el-kholy\codeblock\payment application\card.h
+
+1630273269 source:c:\users\mohamed el-kholy\codeblock\payment application\terminal.c
+	<stdio.h>
+	<stdlib.h>
+	"STD_TYPES.h"
+	"Terminal.h"
+
+1630273465 source:c:\users\mohamed el-kholy\codeblock\payment application\server.c
+	<stdio.h>
+	<stdlib.h>
+	"STD_TYPES.h"
+	"Card.h"
+	"Terminal.h"
+	"Server.h"
+
+1630273128 c:\users\mohamed el-kholy\codeblock\payment application\terminal.h
+
+1630270318 c:\users\mohamed el-kholy\codeblock\payment application\server.h
+
